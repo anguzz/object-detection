@@ -20,12 +20,6 @@
 
   export let pages: Route[] = [
     {
-      id: "#home",
-      route: "/home",
-      name: "home",
-      title: "Home",
-    },
-    {
       id: "#content",
       route: "/content",
       name: "content",
