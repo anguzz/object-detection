@@ -78,6 +78,15 @@
   font-weight:400;
   padding:5px;
 }
+button:hover {
+	color: #fbfeff;
+	background-color: #3e5fcc;
+	outline: none;
+  font-size:2rem;
+  border-radius: 10px;
+  font-weight:400;
+  padding:5px;
+}
 
 
 /* --------------------------------------------------loading animation --------------------------------------------------*/
