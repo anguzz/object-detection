@@ -1,4 +1,4 @@
-# image-detection
+# object-detection
 
 Limited object detection in a browser using the coco-ssd tensorflow model
 
