@@ -13,12 +13,12 @@
 </script>
 
 <SEO
-  title="site name"
-  description="site desc"
-  canonical="link"
+  title="Object detection"
+  description="localize and identify multiple objects in a single image snapshot"
+  canonical=""
 />
 
 <!--About me/bio-->
-<Content backgroundClass={primaryBackground} />
+<Content />
 
 <Footer  />
