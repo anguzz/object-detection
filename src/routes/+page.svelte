@@ -18,7 +18,6 @@
   canonical=""
 />
 
-<!--About me/bio-->
 <Content />
 
 <Footer  />
